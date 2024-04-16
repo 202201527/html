@@ -1,7 +1,14 @@
+/*css를 할때 Dom 구조 생각하기 */
+
 body {
   color: brown;
   font: 1.2rem "Fira Sans", sans-serif;
 }
+/* 오버라이딩 */
+
+/* h1 {
+  color: blue;
+} */
 
 h1,
 h2 {
@@ -17,5 +24,3 @@ h2 {
 p {
   color: goldenrod;
 }
-
-/*css를 할때 Dom 구조를 생각해두기 */
